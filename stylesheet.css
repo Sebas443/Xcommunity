@@ -6,6 +6,7 @@
   justify-content: center;
   border: 5px solid rgba(255, 0, 0, 0.5);
   border-color: black;
+  width: 1455px;
 }
 
 .navbar a{
@@ -52,9 +53,10 @@ body {
 }
 
 .Gallery-active {
-  width: 100%;
+  width: 1495px;
   height: 900px;
   margin: auto;
+  margin-top: 5px;
   background-position: center;
   background-size: cover;
   display: block;
